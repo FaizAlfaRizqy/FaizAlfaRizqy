@@ -31,7 +31,7 @@
 
 ## ⚡ **Tech Arsenal**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,mysql,git,python,flask,java" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,mysql,git,python,flask,java,ps,figma,notion" />
 </p>
 
 ---
