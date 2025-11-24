@@ -1,5 +1,3 @@
- to My GitHub
-
 <div align="center">
   <pre style="display:inline-block; text-align:left; font-family:monospace;">
 ███████╗ █████╗ ██╗███████╗███████╗
@@ -21,7 +19,40 @@
   <img src="https://img.shields.io/badge/Status-Always%20Online-1f1f1f?style=for-the-badge" />
 </p>
 
-### **I'm Faizz.**
-A random person
+---
 
-> "Even in the darkest codebase, there’s always a bug waiting to ruin your life."
+## <p align="center">🔥 **I'm Faizz** — A random person wandering in the void.</p>
+
+<p align="center"><i>"Even in the darkest codebase, there’s always a bug waiting to ruin your life."</i></p>
+
+---
+
+---
+
+## ⚡ **Tech Arsenal**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,php,laravel,mysql,git,linux" />
+</p>
+
+---
+
+## 🕶️ **GitHub Intel Feed**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=codeSTACKr"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&border_radius=5"/>
+</p>
+
+---
+
+## 🧪 **Random Output**
+```md
+$ run.sh
+> System online.
+> Creativity level: unstable.
+> Motivation: fluctuating.
+> Sanity: 0.4%
+
+<p align="center"> <img src="https://media.tenor.com/F6J2k60cGaoAAAAC/hollow-knight.gif" width="200"/> </p> ```
