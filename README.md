@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/124/124658.gif" width="120" style="border-radius:50%;"/>
+  <img src="https://giffiles.alphacoders.com/124/124658.gif"/>
 </p>
 
 <p align="center">
