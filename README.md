@@ -1,6 +1,6 @@
 # 🖤 Welcome to My GitHub
 
-<p align="center">
+<div align="center">
 ```
 ███████╗ █████╗ ██╗███████╗███████╗
 ██╔════╝██╔══██╗██║╚══███╔╝╚══███╔╝
@@ -9,7 +9,7 @@
 ██║     ██║  ██║██║███████╗███████╗
 ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
-</p>
+</div>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/124/124658.gif"/>
