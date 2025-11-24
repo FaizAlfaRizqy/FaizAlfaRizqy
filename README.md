@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/profile.png" width="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/FaizAlfaRizqy/repo/main/profile.png" width="120" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
