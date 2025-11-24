@@ -38,7 +38,7 @@
 
 ## 🕶️ **GitHub Intel Feed**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernane=FaizAlfaRizqy&show_icons=true&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizAlfaRizqy&show_icons=true&theme=codeSTACKr"/>
 </p>
 
 <p align="center">
