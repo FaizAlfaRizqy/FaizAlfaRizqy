@@ -1,14 +1,14 @@
 # 🖤 Welcome to My GitHub
 
 <div align="center">
-```
+  <pre style="display:inline-block; text-align:left; font-family:monospace;">
 ███████╗ █████╗ ██╗███████╗███████╗
 ██╔════╝██╔══██╗██║╚══███╔╝╚══███╔╝
 █████╗  ███████║██║  ███╔╝   ███╔╝ 
 ██╔══╝  ██╔══██║██║ ███╔╝   ███╔╝
 ██║     ██║  ██║██║███████╗███████╗
 ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
-```
+  </pre>
 </div>
 
 <p align="center">
