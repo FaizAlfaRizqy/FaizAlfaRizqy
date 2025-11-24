@@ -41,7 +41,7 @@
 - **PHP, Laravel** → Backend logic, REST API, authentication  
 - **MySQL** → Database & data management  
 - **Python + Flask** → Machine Learning API, backend lightweight  
-- **Git** → Version control biar gak chaos  
+- **Git** → Version control 
 - **Java** → OOP, base concepts, sometimes backend  
 - **Photoshop** → UI assets, editing  
 - **Figma** → UI/UX design workflow  
@@ -67,13 +67,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaizAlfaRizqy&theme=github_dark" />
 </p>
 
----
-
-## 💠 **Extra Cool Stuff Added**
-### 🔮 Animated Aura Banner
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="400"/>
-</p>
-
-### 🧨 Cyberpunk Divider  
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p>
