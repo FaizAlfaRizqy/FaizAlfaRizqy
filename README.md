@@ -38,11 +38,11 @@
 
 ## 🕶️ **GitHub Intel Feed**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api?usernane=FaizAlfaRizqy&show_icons=true&theme=codeSTACKr"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&border_radius=5"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaizAlfaRizqy&theme=dark&border_radius=5"/>
 </p>
 
 ---
@@ -54,5 +54,5 @@ $ run.sh
 > Creativity level: unstable.
 > Motivation: fluctuating.
 > Sanity: 0.4%
-
-<p align="center"> <img src="https://media.tenor.com/F6J2k60cGaoAAAAC/hollow-knight.gif" width="200"/> </p> ```
+```
+<p align="center"> <img src="https://media.tenor.com/F6J2k60cGaoAAAAC/hollow-knight.gif" width="200"/> </p>
