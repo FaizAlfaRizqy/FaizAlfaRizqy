@@ -22,21 +22,39 @@
 ---
 
 ## <p align="center">🔥 **I'm Faizz** — A random person wandering in the void.</p>
-
-<p align="center"><i>"Even in the darkest codebase, there’s always a bug waiting to ruin your life."</i></p>
+<p align="center"><i>"Even in the darkest codebase, there's always a bug waiting to ruin your life."</i></p>
 
 ---
+
+## 🚀 **About Me**
+- 🌐 Currently learning **Web Development (Fullstack)** & **Machine Learning**  
+- 🧠 Love building modern UI, APIs, and anything that looks cool  
+- ⚙️ Sometimes overthinks logic, but still ships the code  
+- 💤 Sleeps? Nah, that's optional  
 
 ---
 
 ## ⚡ **Tech Arsenal**
+### 🧩 What I Use & Why
+- **JavaScript, HTML, CSS** → Frontend development; UI, interaksi, animasi  
+- **React** → Component-based frontend, SPA, fast rendering  
+- **PHP, Laravel** → Backend logic, REST API, authentication  
+- **MySQL** → Database & data management  
+- **Python + Flask** → Machine Learning API, backend lightweight  
+- **Git** → Version control biar gak chaos  
+- **Java** → OOP, base concepts, sometimes backend  
+- **Photoshop** → UI assets, editing  
+- **Figma** → UI/UX design workflow  
+- **Notion** → Project planning & documentation  
+- **IntelliJ / VSCode** → Main coding battlegrounds  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,mysql,git,python,flask,java,ps,figma,notion,intelij,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,mysql,git,python,flask,java,ps,figma,notion,intellij,vscode" />
 </p>
 
 ---
 
-## 🕶️ **GitHub Intel Feed**
+## 🛰️ **GitHub Intel Feed**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaizAlfaRizqy&theme=github_dark" />
 </p>
@@ -48,3 +66,14 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaizAlfaRizqy&theme=github_dark" />
 </p>
+
+---
+
+## 💠 **Extra Cool Stuff Added**
+### 🔮 Animated Aura Banner
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="400"/>
+</p>
+
+### 🧨 Cyberpunk Divider  
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p>
