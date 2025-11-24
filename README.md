@@ -31,28 +31,20 @@
 
 ## ⚡ **Tech Arsenal**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,php,laravel,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,mysql,git,python" />
 </p>
 
 ---
 
 ## 🕶️ **GitHub Intel Feed**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizAlfaRizqy&show_icons=true&theme=codeSTACKr&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaizAlfaRizqy&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaizAlfaRizqy&theme=dark&border_radius=5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaizAlfaRizqy&theme=github_dark" />
 </p>
 
----
-
-## 🧪 **Random Output**
-```md
-$ run.sh
-> System online.
-> Creativity level: unstable.
-> Motivation: fluctuating.
-> Sanity: 0.4%
-```
-<p align="center"> <img src="https://media.tenor.com/F6J2k60cGaoAAAAC/hollow-knight.gif" width="200"/> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaizAlfaRizqy&theme=github_dark" />
+</p>
